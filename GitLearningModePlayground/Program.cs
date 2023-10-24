@@ -8,7 +8,7 @@ namespace GitLearningModePlayground
         {
             Console.WriteLine("Welcome to the Git Learning Mode Playground!");
             Console.WriteLine("Feel free to use this repository to play and experiment with Git in Visual Studio.");
-            // test!
+            // edited/comitted in PR, synced to remote
         }
     }
 }
